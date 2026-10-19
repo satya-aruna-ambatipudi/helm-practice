@@ -1,0 +1,3 @@
+deployment:
+  replicas: "4"
+  imageVersion: "1.28"
